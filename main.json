@@ -1,0 +1,7 @@
+{
+  "trading_parameters" : {
+    "data_path": "data\\close_price.csv",
+    "moving_avg_day": 25,
+    "watch_plot": true
+  }
+}
