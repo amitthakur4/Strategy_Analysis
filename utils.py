@@ -29,6 +29,3 @@ class reading_components:
             df= pd.read_excel(os.path.join(os.getcwd(),self.path))
         return df
 
-if __name__=="__main__":
-    c= reading_components()
-    c.config_json()
